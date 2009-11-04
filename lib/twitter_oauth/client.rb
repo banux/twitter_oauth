@@ -8,6 +8,7 @@ require 'twitter_oauth/blocks'
 require 'twitter_oauth/friendships'
 require 'twitter_oauth/user'
 require 'twitter_oauth/favorites'
+require 'twitter_oauth/lists'
 require 'twitter_oauth/utils'
 
 module TwitterOAuth
